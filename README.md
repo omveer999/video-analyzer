@@ -63,7 +63,7 @@ GOOGLE_PERSPECTIVE_API_KEY=your_google_perspective_api_key
 uvicorn app.main:app --reload
 ```
 
-The application will be available at `http://127.0.0.1:8000`.
+The application will be available at `http://127.0.0.1:8000/docs`.
 
 ### 6. Cache Clear
 ```bash
