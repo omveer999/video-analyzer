@@ -1,0 +1,45 @@
+# Python-related
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+fastapi-env/
+env/
+venv/
+
+# IDE/Editor settings
+.vscode/
+.idea/
+*.swp
+
+# Logs and other temporary files
+*.log
+*.sqlite3
+*.pid
+*.bak
+*.tmp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Pytest cache
+.pytest_cache/
+
+# Uvicorn log files
+*.uvicorn.log
+
+# Coverage reports
+htmlcov/
+.coverage
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Environment variables
+.env
+
+temp/
